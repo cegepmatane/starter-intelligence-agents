@@ -29,19 +29,6 @@
 - Listez les événements ? 🔴 À COMPLÉTER
 - Quel événement pourrait-on ajouter ? 🔴 À COMPLÉTER
 
-#### Partie 3 : Parsing (FSM)
-**Outils** : https://ivanzuzak.info/noam/webapps/fsm_simulator/ , https://madebyevan.com/fsm/ ou https://app.diagrams.net/
-
-📁 **Image de la machine d'états `if(a==b)`** : 🔴 LIEN VERS IMAGE GITHUB À REMPLIR  
-📁 **Image de la machine d'états finale (`if(false)`, `if(0)`)** : 🔴 LIEN VERS IMAGE GITHUB À REMPLIR
-
-> **Note :** placez vos images dans votre dépôt GitHub  
-> **Option 1 - Lien simple :** `[Voir l'image](chemin/vers/image.png)`  
-> **Option 2 - Afficher l'image :** `![Description](chemin/vers/image.png)`
-
-**📑 Explication à ajouter :**
-- Comment améliorer le programme en tolérant des espaces ? 🔴 À COMPLÉTER
-
 ---
 
 ### 👻 LABO PACMAN (2 %)
@@ -77,6 +64,19 @@
 ```
 🔴 À COMPLÉTER ICI (par exemple VUE, SEUL = action au hasard, PROCHE = FUIR...)
 ```
+
+#### Partie 3 : Parsing (FSM)
+**Outils** : https://ivanzuzak.info/noam/webapps/fsm_simulator/ , https://madebyevan.com/fsm/ ou https://app.diagrams.net/
+
+📁 **Image de la machine d'états `if(a==b)`** : 🔴 LIEN VERS IMAGE GITHUB À REMPLIR  
+📁 **Image de la machine d'états finale (`if(false)`, `if(0)`)** : 🔴 LIEN VERS IMAGE GITHUB À REMPLIR
+
+> **Note :** placez vos images dans votre dépôt GitHub  
+> **Option 1 - Lien simple :** `[Voir l'image](chemin/vers/image.png)`  
+> **Option 2 - Afficher l'image :** `![Description](chemin/vers/image.png)`
+
+**📑 Explication à ajouter :**
+- Comment améliorer le programme en tolérant des espaces ? 🔴 À COMPLÉTER
 
 ---
 
