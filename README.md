@@ -34,7 +34,6 @@
 ### 👻 LABO PACMAN (2 %)
 
 **Code de départ** : https://intelligence.projet.autos/labo-agents/pacman-depart.zip (le Pacman de Berkeley, `pac3man`, corrigé pour Python 3)  
-📁 **Mon code GitHub (le Pacman modifié)** : 🔴 LIEN À REMPLIR
 
 #### Partie 1 : Reverse engineering du code
 📁 **Diagramme UML de l'héritage des agents** : 🔴 LIEN VERS IMAGE GITHUB À REMPLIR
